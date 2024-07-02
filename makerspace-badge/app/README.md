@@ -1,6 +1,6 @@
 # Maker Space Hexpansion App
 
-A simple app that can be written to the hexpansion EEPROM, which the badge will automatically load and run.
+A simple app that can be written to the Maker Space hexpansion EEPROM, which the badge will automatically load and run.
 
 Runs a simple chasing effect as a proof-of concept.
 
